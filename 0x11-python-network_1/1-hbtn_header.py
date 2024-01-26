@@ -5,7 +5,6 @@ Usage: ./1-hbtn_header.py <URL>
 """
 
 import sys
-
 import urllib.request
 
 
